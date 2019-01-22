@@ -8,14 +8,11 @@ url: "https://janczizikow.github.io/" # the base hostname & protocol for your si
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Kredenc
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    # - https://www.facebook.com/kredenc-online
+    - https://github.com/Cloud4est
+
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -24,7 +21,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  A Hajnóczy Kollégium újságja.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 

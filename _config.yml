@@ -3,7 +3,7 @@ title: Kredenc # your site title
 author: Sarius # You :P
 description: > # Meta description of Homepage
   A Hajnóczy Kollégium diákmagazinja.
-baseurl: "/sleek" # the subpath of your site, e.g. /blog
+baseurl: "/kredenc" # the subpath of your site, e.g. /blog
 url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN

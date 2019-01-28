@@ -12,12 +12,12 @@
     {% if post.image %}
       <figure class="post-card__thumb">
         <img
-          src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}_placehold.jpg"
-          data-srcset="{{ site.url }}{{ site.baseurl }}/{{ post.image }}_thumb.jpg, {{ site.url }}{{ site.baseurl }}/{{post.image}}_thumb@2x.jpg 2x"
+          src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}"
+          data-srcset="{{ site.url }}{{ site.baseurl }}/{{ post.image }}, {{ site.url }}{{ site.baseurl }}/{{post.image}}"
           class="lazyload blur"
           alt="{{post.title}}"
         />
-        <noscript><img src="{{ site.url }}{{ site.baseurl }}/{{post.image}}_thumb.jpg" alt="{{ post.title }}"></noscript>
+        <noscript><img src="{{ site.url }}{{ site.baseurl }}/{{post.image}}" alt="{{ post.title }}"></noscript>
       </figure>
     {% else %}
       <figure class="post-card__thumb">

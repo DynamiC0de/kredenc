@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Kapcsolat
+layout: page
 nav: true
 ---
 

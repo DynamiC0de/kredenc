@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Mazochizmus
+date: 2019-01-28 00:00:00 Z
+layout: post
 is-featured: true
 author: Kovács Brigitta
 ---

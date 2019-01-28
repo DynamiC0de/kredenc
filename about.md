@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Rólunk
 nav: true
 ---

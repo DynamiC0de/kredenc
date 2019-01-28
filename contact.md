@@ -1,8 +1,9 @@
 ---
-layout: page
 title: Kapcsolat
-permalink: /contact/
+permalink: "/contact/"
+layout: page
 ---
+
 Ha bármi kérdésed van, írj nekünk bátran!
 
 {% include form.html %}

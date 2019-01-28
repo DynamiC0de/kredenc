@@ -8,7 +8,7 @@ summary: Markdown is a way to style text on the web. You control the display of 
   document; formating words as bold or italic, adding images, and creating lists are
   just a few of the things we can do with Markdown. Mostly, Markdown is just regular
   text with a few non-alphabetic characters thrown in.
-featured-img: emile-perron-190221
+image: assets/img/posts/emile-perron-190221.jpg
 ---
 
 From [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

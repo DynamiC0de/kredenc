@@ -1,4 +1,3 @@
----
 title: Kredenc
 timezone: UTC
 collections:
@@ -29,7 +28,7 @@ tagline: 'A Hajnóczy Kollégium újságja.
 
 '
 hero_img: posts/sleek_lg.jpg
-email: your-email@domain.com
+email: nestgrouphu@gmail.com
 disqus:
   shortname: janczizikow
 service_worker: true

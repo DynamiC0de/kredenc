@@ -1,7 +1,7 @@
 ---
 title: Képek
 permalink: "/gallery/"
-layout: page
+layout: default
+posts: [memes, photos, comics]
 nav: true
 ---
-{% include gallery.html %}

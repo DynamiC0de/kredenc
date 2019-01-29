@@ -7,7 +7,7 @@
       <nav class="header__links">
         <div class="container header__links-wrapper">
           {% assign navbar_items = site.pages | where:"nav",true %}
-          {% for item in navbar_items %}
+          {% for item in navbar_items reversed %}
             <a class="header__link" href="{{ item.url | relative_url }}" itemprop="url">
               <span itemprop="name">{{ item.title }}</span>
             </a>

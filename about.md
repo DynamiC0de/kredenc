@@ -1,6 +1,5 @@
 ---
 title: Rólunk
-layout: page
 nav: true
 ---
 

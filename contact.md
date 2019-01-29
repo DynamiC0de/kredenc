@@ -1,5 +1,6 @@
 ---
 title: Kapcsolat
+permalink: "/contact/"
 layout: page
 nav: true
 ---

@@ -25,6 +25,8 @@ navigation:
   link: "/about"
 - name: Contact
   link: "/contact"
+- name: Gallery
+  link: "/gallery"
 tagline: 'A Hajnóczy Kollégium újságja.
 
 '

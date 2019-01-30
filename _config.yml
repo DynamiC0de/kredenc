@@ -8,6 +8,15 @@ collections:
   uploads:
     title: Uploads
     output: true
+  memes:
+    title: Memes
+    output: true
+  comics:
+    title: Comics
+    output: true
+  photos:
+    title: Photos
+    output: true
 author: Sarius
 description: 'A Hajnóczy Kollégium diákmagazinja.
 
@@ -25,6 +34,8 @@ navigation:
   link: "/about"
 - name: Contact
   link: "/contact"
+- name: Gallery
+  link: "/gallery"
 tagline: 'A Hajnóczy Kollégium újságja.
 
 '

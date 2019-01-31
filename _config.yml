@@ -2,20 +2,20 @@
 title: Kredenc
 timezone: Europe/Budapest
 collections:
+  comics:
+    title: Comics
+    output: true
+  memes:
+    title: Memes
+    output: true
+  photos:
+    title: Photos
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
-    output: true
-  memes:
-    title: Memes
-    output: true
-  comics:
-    title: Comics
-    output: true
-  photos:
-    title: Photos
     output: true
 author: Sarius
 description: 'A Hajnóczy Kollégium diákmagazinja.

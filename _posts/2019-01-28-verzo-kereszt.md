@@ -1,6 +1,6 @@
 ---
 title: Vérző kereszt
-date: 2019-01-28 00:00:00 Z
+date: 2019-01-28 01:00:00 +01:00
 layout: post
 is-featured: true
 author: Szekeres Bella

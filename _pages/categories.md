@@ -1,5 +1,8 @@
 ---
 title: Categories
+permalink: "/categories/"
+layout: page
+nav: true
 ---
 
 <div>

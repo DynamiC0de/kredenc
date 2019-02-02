@@ -4,16 +4,16 @@ timezone: Europe/Budapest
 collections:
   comics:
     title: Comics
-    permalink: "/comics/:path/"
     output: true
+    permalink: "/comics/:path/"
   memes:
     title: Memes
-    permalink: "/memes/:path/"
     output: true
+    permalink: "/memes/:path/"
   photos:
     title: Photos
-    permalink: "/photos/:path/"
     output: true
+    permalink: "/photos/:path/"
   posts:
     title: Posts
     output: true
@@ -49,16 +49,15 @@ defaults:
   values:
     show: comics
     layout: post
-
 author: Sarius
-description: 'A Hajnóczy Kollégium diákmagazinja.'
+description: A Hajnóczy Kollégium diákmagazinja.
 baseurl: "/kredenc"
 url: https://dynamic0de.github.io/
 social:
   name: Kredenc
   links:
   - https://github.com/Cloud4est
-tagline: 'A Hajnóczy Kollégium újságja.'
+tagline: A Hajnóczy Kollégium újságja.
 hero_img: posts/sleek_lg.jpg
 email: nestgrouphu@gmail.com
 disqus:

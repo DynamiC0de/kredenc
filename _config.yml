@@ -4,12 +4,15 @@ timezone: Europe/Budapest
 collections:
   comics:
     title: Comics
+    permalink: "/comics/:path/"
     output: true
   memes:
     title: Memes
+    permalink: "/memes/:path/"
     output: true
   photos:
     title: Photos
+    permalink: "/photos/:path/"
     output: true
   posts:
     title: Posts
@@ -17,28 +20,45 @@ collections:
   uploads:
     title: Uploads
     output: true
-author: Sarius
-description: 'A Hajnóczy Kollégium diákmagazinja.
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: ''
+    type: memes
+  values:
+    show: memes
+    layout: post
+- scope:
+    path: ''
+    type: photos
+  values:
+    show: photos
+    layout: post
+- scope:
+    path: ''
+    type: comics
+  values:
+    show: comics
+    layout: post
 
-'
+author: Sarius
+description: 'A Hajnóczy Kollégium diákmagazinja.'
 baseurl: "/kredenc"
 url: https://dynamic0de.github.io/
 social:
   name: Kredenc
   links:
   - https://github.com/Cloud4est
-navigation:
-- name: Home
-  link: "/"
-- name: About
-  link: "/about"
-- name: Contact
-  link: "/contact"
-- name: Gallery
-  link: "/gallery"
-tagline: 'A Hajnóczy Kollégium újságja.
-
-'
+tagline: 'A Hajnóczy Kollégium újságja.'
 hero_img: posts/sleek_lg.jpg
 email: nestgrouphu@gmail.com
 disqus:

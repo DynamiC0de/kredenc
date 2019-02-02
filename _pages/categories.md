@@ -1,7 +1,5 @@
 ---
 title: Categories
-permalink: "/categories/"
-layout: page
 ---
 
 <div>

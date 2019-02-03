@@ -36,19 +36,19 @@ defaults:
     type: memes
   values:
     show: memes
-    layout: post
+    layout: pic
 - scope:
     path: ''
     type: photos
   values:
     show: photos
-    layout: post
+    layout: pic
 - scope:
     path: ''
     type: comics
   values:
     show: comics
-    layout: post
+    layout: pic
 author: Sarius
 description: A Hajnóczy Kollégium diákmagazinja.
 baseurl: "/kredenc"

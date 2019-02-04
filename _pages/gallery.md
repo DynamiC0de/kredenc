@@ -1,10 +1,8 @@
 ---
 title: Képek
 permalink: "/gallery/"
-layout: page
-posts:
-- memes
-- photos
-- comics
+layout: default
 nav: true
+show: gallery
 ---
+

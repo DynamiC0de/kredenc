@@ -5,40 +5,59 @@ collections:
   comics:
     title: Comics
     output: true
+    permalink: "/comics/:path/"
   memes:
     title: Memes
     output: true
+    permalink: "/memes/:path/"
   photos:
     title: Photos
     output: true
+    permalink: "/photos/:path/"
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+- scope:
+    path: ''
+    type: memes
+  values:
+    show: memes
+    layout: pic
+- scope:
+    path: ''
+    type: photos
+  values:
+    show: photos
+    layout: pic
+- scope:
+    path: ''
+    type: comics
+  values:
+    show: comics
+    layout: pic
 author: Sarius
-description: 'A Hajnóczy Kollégium diákmagazinja.
-
-'
+description: A Hajnóczy Kollégium diákmagazinja.
 baseurl: "/kredenc"
 url: https://dynamic0de.github.io/
 social:
   name: Kredenc
   links:
   - https://github.com/Cloud4est
-navigation:
-- name: Home
-  link: "/"
-- name: About
-  link: "/about"
-- name: Contact
-  link: "/contact"
-- name: Gallery
-  link: "/gallery"
-tagline: 'A Hajnóczy Kollégium újságja.
-
-'
+tagline: A Hajnóczy Kollégium újságja.
 hero_img: posts/sleek_lg.jpg
 email: nestgrouphu@gmail.com
 disqus:

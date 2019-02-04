@@ -32,9 +32,45 @@ layout: compress
         <div class="container">
           <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
-            {% for post in site.posts limit: 6 %}
-              {% include card.html %}
-            {% endfor %}
+            {% assign galleryCards = site.pages | where:"gallery","true" %}
+
+            {% if page.show == "index" %}
+
+              {% for post in site.posts limit: 6 %}
+                {% include card.html %}
+              {% endfor %}
+
+            {% elsif page.show == "gallery" %}
+
+              {% for post in galleryCards %}
+                {% include card.html %}
+              {% endfor %}
+
+            {% else %}
+
+              {% case page.show %}
+
+                {% when "memes" %}
+
+                  {% for post in site.memes %}
+                    {% include card.html %}
+                  {% endfor %}
+
+                {% when "photos" %}
+
+                  {% for post in site.photos %}
+                    {% include card.html %}
+                  {% endfor %}
+
+                {% when "comics" %}
+
+                  {% for post in site.comics %}
+                    {% include card.html %}
+                  {% endfor %}
+
+              {% endcase %}
+
+            {% endif %}
 
             <!-- {% include pagination.html %} -->
           </div>

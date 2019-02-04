@@ -1,5 +1,5 @@
 ---
-title: Categories
+title: Kategóriák
 permalink: "/categories/"
 layout: page
 nav: true

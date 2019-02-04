@@ -10,11 +10,7 @@ comment: true
 Egy bántalmazó kapcsolat végtelen útvesztőjéből
 Életünk során mind beleakadunk egy olyan ismerősbe, barátba vagy épp családtagba, aki egy számunkra szemmel láthatóan rá teljesen ártalmas viszonyban ragadt. Ilyenkor sokan bosszankodva, értetlenkedve kérdezzük: Miért vagy még vele egyáltalán? Mikor hagyod már végre ott?
 
-<<<<<<< HEAD
 <!--![cikk1.png](_uploads/cikk1.png) ![cikk2.png](_uploads/cikk2.png) -->
-=======
-# ![cikk1.png](/_uploads/cikk1.png) ![cikk2.png](/_uploads/cikk2.png)
->>>>>>> 4bd47a10ce2649a55f9ebaa65a23d06f61a1f4f0
 
 Erre az érintett fél általában csak kínos mosolyba torzult arccal, behúzott nyakkal finoman vállat von. Én legalábbis mindig így jártam el.
 
@@ -23,11 +19,7 @@ Külső szemlélőként azt válaszolnánk persze, választása mindenkinek van.
 De ez sajnos nem feltétlen így működik.
 Egy ilyen viszony során elég súlyosan épül le az önbizalom és kerülnek háttérbe az egyéb kapcsolatok általában. Mindezt úgy, hogy az érintett észre sem veszi.
 
-<<<<<<< HEAD
 Hogy miért nem hagytam soha ott? <!-- ![cikk3.png](/uploads/cikk3.png) -->
-=======
-Hogy miért nem hagytam soha ott? ![cikk3.png](/_uploads/cikk3.png)
->>>>>>> 4bd47a10ce2649a55f9ebaa65a23d06f61a1f4f0
 Mert miután bántott mindig jött egy időszak, amikor bűnbánóan igyekezett kiengesztelni. És amíg igyekszik és ő is tenni akar ezért, addig van értelme is ennek az egésznek, nem?  Ráadásul ilyenkor néha pont olyan igéző tudott lenni, mint akinek régen megismertem. A baj meg csak egy kis botlás volt, mindenki követ el ilyeneket. A lényeg, hogy megbánja és változni akar, változni nem egyszerű, türelmesebbnek kéne lennem.
 Dehát valójában ez nem is az ő hibája, vagy ha mégis, legalább annyira az enyém is, meg azé a nehéz természetemé. Én sem vagyok tökéletes, rosszul is reagálok mindig, túl érzékeny vagyok. És hát nem könnyű neki most, elmondja ő is mindig milyen frusztrációk érték, amiknek feszültségével sajnos engem talált meg. De a gondok majd elmúlnak és akkor ismét helyreáll a világ rendje. Különben is, József Attila is valami ilyesmiről ír a Magad emésztőben - „dudás a fuvolást” - nem igaz?
 Meg amúgy is mihez kezdenék nélküle? Csak mi vagyunk igazán egymásnak. Mindent tudunk egymásról, minden este beszélünk, lehetetlen közelségben állunk egymáshoz. Hogyan is tudnék így elszakadni tőle? Ott van mindenben már örökre, feloldhatatlanul. És lehet, hogy ő nem mindig segít nekem, de most neki a nehezebb, sok a változás az életében/ benne, majd ez is megoldódik idővel, ahogy elszállnak a problémák.

@@ -61,7 +61,7 @@ tagline: A Hajnóczy Kollégium újságja.
 hero_img: posts/sleek_lg.jpg
 email: nestgrouphu@gmail.com
 disqus:
-  shortname: janczizikow
+  shortname: kredenc
 service_worker: true
 markdown: kramdown
 highlighter: rouge

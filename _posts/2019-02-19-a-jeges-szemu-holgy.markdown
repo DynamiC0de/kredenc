@@ -1,6 +1,7 @@
 ---
 title: A jeges szemű hölgy
 date: 2019-02-19 20:30:00 +01:00
+picture: "/uploads/jazz.jpg"
 ---
 
 A füsttengeren nem szűrődött át semmi, csak a jazzt éneklő énekesnő érces hangja. A dal oly finoman csengett, mintha attól félne, hogy megsértené az ember fülét, de egyben mégis követelőző volt, hogy már akkor is az agyadba vési a ritmust ösztökélve arra, hogy egész testedre kiterjedjen a felszabadult melódia. Csak egy zongora szabad csörömpölése és trombita halk búgása kísérte a szűzies hangot. Halk, nem kívánt moraj volt még hallható az ének alatt, mely az asztaloknál társalgó társaságoktól származott. A színes társaságban volt fekete, s fehér ember is egyaránt, csak egy dolog tartotta őket egy helyen békességben, ami nem volt más, mint a jazz kellemesen csengő dallama.

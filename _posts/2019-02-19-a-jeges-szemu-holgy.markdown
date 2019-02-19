@@ -1,6 +1,10 @@
 ---
 title: A jeges szemű hölgy
 date: 2019-02-19 20:30:00 +01:00
+categories:
+- novella
+tags:
+- jazz
 picture: "/uploads/jazz.jpg"
 ---
 

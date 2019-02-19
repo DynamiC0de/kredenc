@@ -1,7 +1,12 @@
 ---
 title: Valaki segítsen!
 date: 2019-02-19 20:17:00 +01:00
-Field name: 
+categories:
+- vers
+tags:
+- magány
+author: Szekeres Bella
+picture: "/uploads/51391266_404404826962150_8323487224821710848_n.jpg"
 ---
 
 Elvesztem az elmémben,
@@ -28,4 +33,3 @@ Egyedül vagyok,
 Lassan felemészt a magány,
 Kérlek karolj fel.
 Valaki segítsen!
-![51474364_1008013762742482_6003565201142579200_n.jpg](/uploads/51474364_1008013762742482_6003565201142579200_n.jpg)

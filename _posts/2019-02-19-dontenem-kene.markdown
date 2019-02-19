@@ -12,9 +12,11 @@ Képzelet vagy a külvilág?
 Nem tudom melyikre vágyom,
 Úgy szívemből igazából.
 
+
 Menni vagy maradni?
 Ha a múlt az őrületbe kerít,
 Nem akarok hátat sem fordítani.
+
 
 Keresni a bajt?
 Hisz ő követ engem,

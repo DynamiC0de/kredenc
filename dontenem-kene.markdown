@@ -1,6 +1,7 @@
 ---
 title: Döntenem kéne?
 date: 2019-02-19 19:54:00 +01:00
+published: false
 Szekeres Bella: 
 Field name: 
 ---

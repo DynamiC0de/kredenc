@@ -1,6 +1,7 @@
 ---
 title: Valaki segítsen!
 date: 2019-02-19 20:17:00 +01:00
+Field name: 
 ---
 
 Elvesztem az elmémben,
@@ -27,3 +28,4 @@ Egyedül vagyok,
 Lassan felemészt a magány,
 Kérlek karolj fel.
 Valaki segítsen!
+![51474364_1008013762742482_6003565201142579200_n.jpg](/uploads/51474364_1008013762742482_6003565201142579200_n.jpg)

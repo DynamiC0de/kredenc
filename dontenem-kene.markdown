@@ -1,6 +1,8 @@
 ---
 title: Döntenem kéne?
 date: 2019-02-19 19:54:00 +01:00
+Szekeres Bella: 
+Field name: 
 ---
 
 Látni akarom a valóságot?

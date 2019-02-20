@@ -13,7 +13,9 @@ image: "/uploads/limitless_-481e59.jpg"
 "Mi ez a drog? Rendmániás lettem, 6 órán át nem gyújtottam rá és nem ettem. Rendes, szenvedélymentes, mi ez? Análisan fixált személyiséget alakít ki?"
 
 "Négy számjegyű az IQ-m, mégis kihagytam valamit. Nem sokat. Majdnem nyomot hagytam a világban. Most majd egy helyen hagyok nyomot. A járdán."
-![limitless_-481e59.jpg](/uploads/limitless_-481e59.jpg)
+
+![WP_20170721_18_46_40_Pro.jpg](/uploads/WP_20170721_18_46_40_Pro.jpg)
+
 Kinek mi jut erről a szóról eszébe? Limitless – szó szerinti fordításban korlátlant, határtalant jelent. Ugye, hogy más? De hagyjuk is ki a hosszas elmélkedést arról, a fordítók miért pont ezt a címet adták a filmnek, és ugorjunk fejest a történetbe.
 
 Fürdőrucit fel, irány a mély víz!

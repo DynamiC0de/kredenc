@@ -6,7 +6,7 @@ categories:
 tags:
 - magány
 author: Szekeres Bella
-picture: "/uploads/51391266_404404826962150_8323487224821710848_n.jpg"
+image: "/uploads/51391266_404404826962150_8323487224821710848_n.jpg"
 ---
 
 Elvesztem az elmémben,

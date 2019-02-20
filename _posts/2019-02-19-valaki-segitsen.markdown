@@ -18,6 +18,7 @@ A helyes utat eltévesztettem.
 Valaki segítsen!
 
 
+
 Felkiáltottam, 
 
 De nem hallotta senki,
@@ -26,6 +27,7 @@ A szavaim elhaltak.
 
 
 Valaki segítsen!
+
 
 
 Nem tudok felállni,
@@ -37,6 +39,7 @@ A lábaim eltörtek,
 Valaki segítsen!
 
 
+
 Mintha vakok lennének,
 
 Nem vesznek észre,
@@ -44,6 +47,7 @@ Nem vesznek észre,
 Csak én látom őket.
 
 Valaki segítsen!
+
 
 
 

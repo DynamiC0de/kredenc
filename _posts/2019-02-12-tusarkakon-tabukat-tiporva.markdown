@@ -1,6 +1,8 @@
 ---
 title: Tűsarkakon tabukat tiporva
 date: 2019-02-12 21:59:00 +01:00
+categories:
+- filmkritika
 tags:
 - Szex és New York
 - sorozat

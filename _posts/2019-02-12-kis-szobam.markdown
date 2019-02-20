@@ -1,6 +1,8 @@
 ---
 title: Kis szobám
 date: 2019-02-12 21:34:00 +01:00
+categories:
+- novella
 image: "/uploads/1180w-600h_a-to-z-the-chronicles-of-narnia-1f7377.jpg"
 ---
 

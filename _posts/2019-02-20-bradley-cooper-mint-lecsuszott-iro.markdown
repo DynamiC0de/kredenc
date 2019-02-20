@@ -7,6 +7,7 @@ tags:
 - csúcshatás
 - akció
 image: "/uploads/limitless_-481e59.jpg"
+author: Vadinszky Réka
 ---
 
 "Mi ez a drog? Rendmániás lettem, 6 órán át nem gyújtottam rá és nem ettem. Rendes, szenvedélymentes, mi ez? Análisan fixált személyiséget alakít ki?"

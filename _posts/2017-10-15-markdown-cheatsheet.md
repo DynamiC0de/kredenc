@@ -1,14 +1,15 @@
 ---
 title: Markdown Cheatsheet
-date: 2017-10-15 00:00:00 Z
+date: 2017-10-15 02:00:00 +02:00
+published: false
 categories:
 - Guides
-layout: post
 summary: Markdown is a way to style text on the web. You control the display of the
   document; formating words as bold or italic, adding images, and creating lists are
   just a few of the things we can do with Markdown. Mostly, Markdown is just regular
   text with a few non-alphabetic characters thrown in.
 image: assets/img/posts/emile-perron-190221.jpg
+layout: post
 ---
 
 From [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

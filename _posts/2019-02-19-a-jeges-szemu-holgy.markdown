@@ -5,7 +5,7 @@ categories:
 - novella
 tags:
 - jazz
-picture: "/uploads/jazz.jpg"
+image: "/uploads/jazz.jpg"
 author: Szekeres Bella
 ---
 

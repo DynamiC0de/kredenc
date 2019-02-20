@@ -1,9 +1,10 @@
 ---
 title: Getting Started with Sleek
-date: 2017-11-26 00:00:00 Z
-layout: post
+date: 2017-11-26 01:00:00 +01:00
+published: false
 image: assets/img/posts/sleek.jpg
 mathjax: true
+layout: post
 ---
 
 # Getting started

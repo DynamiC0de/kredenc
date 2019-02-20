@@ -14,7 +14,7 @@ image: "/uploads/limitless_-481e59.jpg"
 
 "Négy számjegyű az IQ-m, mégis kihagytam valamit. Nem sokat. Majdnem nyomot hagytam a világban. Most majd egy helyen hagyok nyomot. A járdán."
 
-![WP_20170721_18_46_40_Pro.jpg](https://dynamic0de.github.io//kredenc//uploads/WP_20170721_18_46_40_Pro.jpg)
+![limitless_-481e59.jpg](https://dynamic0de.github.io//kredenc//uploads/limitless_-481e59.jpg)
 
 Kinek mi jut erről a szóról eszébe? Limitless – szó szerinti fordításban korlátlant, határtalant jelent. Ugye, hogy más? De hagyjuk is ki a hosszas elmélkedést arról, a fordítók miért pont ezt a címet adták a filmnek, és ugorjunk fejest a történetbe.
 

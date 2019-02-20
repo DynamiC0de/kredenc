@@ -2,13 +2,13 @@
 title: Kredenc
 timezone: Europe/Budapest
 collections:
-  alkotasok:
-    title: Alkotások
-    output: true
   comics:
     title: Comics
     output: true
     permalink: "/comics/:path/"
+  creations:
+    title: Creations
+    output: true
   memes:
     title: Memes
     output: true

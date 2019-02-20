@@ -2,6 +2,7 @@
 title: Döntenem kéne
 date: 2019-02-19 20:07:00 +01:00
 Szekeres Bella: 
+image: "/uploads/ellentc3a9tek_1.jpg"
 ---
 
 Látni akarom a valóságot?

@@ -1,6 +1,8 @@
 ---
 title: Döntenem kéne
 date: 2019-02-19 20:07:00 +01:00
+categories:
+- vers
 image: "/uploads/ellentc3a9tek_1.jpg"
 ---
 
@@ -37,3 +39,5 @@ Csak egy dolog az, amire vágyom.
 Vele vagy nélküle?
 Ez az egyetlen egy kérdés,
 'Mi teljesen biztos bennem.
+
+Szekeres Bella

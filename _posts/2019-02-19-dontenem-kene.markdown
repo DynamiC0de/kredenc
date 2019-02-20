@@ -4,6 +4,7 @@ date: 2019-02-19 20:07:00 +01:00
 categories:
 - vers
 image: "/uploads/ellentc3a9tek_1.jpg"
+author: Szekeres Bella
 ---
 
 Látni akarom a valóságot?

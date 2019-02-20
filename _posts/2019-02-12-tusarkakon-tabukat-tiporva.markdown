@@ -1,6 +1,10 @@
 ---
 title: Tűsarkakon tabukat tiporva
 date: 2019-02-12 21:59:00 +01:00
+tags:
+- Szex és New York
+- sorozat
+image: "/uploads/Szex%C3%A9sN-ad1ae1.jpg"
 ---
 
 A történet 4 New York-i barátnő életébe, illetve hálószobájába kalauzol minket. Mind a négyen különböző személyiségek, különböző problémákkal. Carrie az újság, majd bestseller írónő a fő főszereplőnk, valamint a narrátorunk is egyben. Fáradhatatlanul kutatja azt az igazi, mindent felemésztően erős szerelmet, amit a szingli férfiak életét elégedetten élő, távolságtartó, ugyanakkor elbűvölő James Prestonnal - fedőnevén Mr. Biggel – való viharos, se veled, se nélküled kapcsolatában meg is talál. Aztán itt van még nekünk Miranda a sikeres, karrierista ügyvédnő. Samantha a testiségnek szenvedélyesen hódoló nagymenő PR menedzser, aki kicsit talán sűrűn váltogatja partnereit. Valamint a frigyre lépés iránt vágyakozó, konzervatív, olykor már-már prűd Charlotte. 

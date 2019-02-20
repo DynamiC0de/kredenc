@@ -10,26 +10,47 @@ image: "/uploads/51391266_404404826962150_8323487224821710848_n.jpg"
 ---
 
 Elvesztem az elmémben,
+
 Nem találok ki a labirintusból,
+
 A helyes utat eltévesztettem.
+
 Valaki segítsen!
+
 
 Felkiáltottam, 
+
 De nem hallotta senki,
+
 A szavaim elhaltak.
+
+
 Valaki segítsen!
+
 
 Nem tudok felállni,
+
 A lábaim eltörtek,
+
 És csak elsétálnak mellettem.
+
 Valaki segítsen!
+
 
 Mintha vakok lennének,
+
 Nem vesznek észre,
+
 Csak én látom őket.
+
 Valaki segítsen!
 
+
+
 Egyedül vagyok,
+
 Lassan felemészt a magány,
+
 Kérlek karolj fel.
+
 Valaki segítsen!

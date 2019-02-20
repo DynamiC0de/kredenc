@@ -7,14 +7,13 @@ tags:
 - csúcshatás
 - akció
 author: Vadinszky Réka
-image: "/uploads/limitless_-481e59.jpg"
+image: "/uploads/limitless_d1_wallpaper_1600x1200.jpg"
 ---
 
 "Mi ez a drog? Rendmániás lettem, 6 órán át nem gyújtottam rá és nem ettem. Rendes, szenvedélymentes, mi ez? Análisan fixált személyiséget alakít ki?"
 
 "Négy számjegyű az IQ-m, mégis kihagytam valamit. Nem sokat. Majdnem nyomot hagytam a világban. Most majd egy helyen hagyok nyomot. A járdán."
 
-![limitless_-481e59.jpg](https://dynamic0de.github.io//kredenc//uploads/limitless_-481e59.jpg)
 
 Kinek mi jut erről a szóról eszébe? Limitless – szó szerinti fordításban korlátlant, határtalant jelent. Ugye, hogy más? De hagyjuk is ki a hosszas elmélkedést arról, a fordítók miért pont ezt a címet adták a filmnek, és ugorjunk fejest a történetbe.
 

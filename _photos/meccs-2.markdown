@@ -5,7 +5,7 @@ categories:
 - kép
 tags:
 - foci
-picture: 
+image: "/uploads/IMG_0552%20(1).jpg"
 ---
 
 Behán Júlia fotója

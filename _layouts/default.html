@@ -52,19 +52,19 @@ layout: compress
 
                 {% when "memes" %}
 
-                  {% for post in site.memes %}
+                  {% for post in site.memes reversed %}
                     {% include card.html %}
                   {% endfor %}
 
                 {% when "photos" %}
 
-                  {% for post in site.photos %}
+                  {% for post in site.photos reversed %}
                     {% include card.html %}
                   {% endfor %}
 
                 {% when "comics" %}
 
-                  {% for post in site.comics %}
+                  {% for post in site.comics reversed %}
                     {% include card.html %}
                   {% endfor %}
 

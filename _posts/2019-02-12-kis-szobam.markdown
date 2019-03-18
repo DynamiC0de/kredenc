@@ -12,3 +12,4 @@ Hirtelen körülnéztem a felújításnak áldozatul eső szobámon. A falakon �
 De a sarokban óhatatalanul ott magasodik még, ki tudja meddig, az az oda nem illő, ócska, régi, szétdőlt ruhásszekrény, melyre azért időnként mégis megnyugtató ránézni a ráragasztgatott emlékek és képek sűrűjén elmélázva egy egy lopott pillanatra.
 
 https://www.youtube.com/watch?v=XvOqUewg1rU
+Horváth Éva

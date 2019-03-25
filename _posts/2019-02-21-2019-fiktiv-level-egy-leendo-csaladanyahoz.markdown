@@ -1,6 +1,6 @@
 ---
 title: |-
-  2019
+  Kovács Brigitta: 2019
   Fiktív levél egy leendő családanyához
 date: 2019-02-21 19:28:00 +01:00
 categories:
@@ -8,9 +8,9 @@ categories:
 tags:
 - levél
 - anyaság
+image: "/uploads/old-letter-3054235_960_720.jpg"
 author:
 - Kovács Brigitta
-image: "/uploads/old-letter-3054235_960_720.jpg"
 ---
 
 Jó napot, hölgyem! Remélem, ez a megszólítás már mindennapos nálad. Hogy tetszik az asztalod? Én dolgoztam érte, csak azért kérdem. Na, és minden jól megy?... De elég a bájcsevejből. Egyenes leszek.

@@ -1,5 +1,5 @@
 ---
-title: Döntenem kéne
+title: 'Szekeres Bella: Döntenem kéne'
 date: 2019-02-19 20:07:00 +01:00
 categories:
 - vers

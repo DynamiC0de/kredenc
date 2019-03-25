@@ -1,5 +1,5 @@
 ---
-title: Bradley Cooper, mint lecsúszott író
+title: 'Vadinszky Réka: Bradley Cooper, mint lecsúszott író'
 date: 2019-02-20 14:04:00 +01:00
 categories:
 - filmkritika
@@ -43,4 +43,3 @@ Robert Ebert, a Chicago Sun-Times filmkritikusa 2,5 csillagot adott neki a 4-bő
 Összességében a készítők egy egész pofás kis akcióthrillert hoztak össze nekünk, ami bár nem hibátlan (Melyik film az?), de elgondolkodtató és megéri megnézni.
 
 Végül cikkemet Carl Van Loon szavaival zárnám: "Isten veled. A gyertyának ugyan kisebb lett az árnyéka, de még mindig édes a fénye."
-Vadinszky Réka

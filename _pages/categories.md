@@ -1,8 +1,8 @@
 ---
 title: Kategóriák
-permalink: "/categories/"
 layout: page
 nav: true
+order: 1
 ---
 
 <div>

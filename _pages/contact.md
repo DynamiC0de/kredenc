@@ -1,6 +1,7 @@
 ---
 title: Kapcsolat
 nav: true
+order: 4
 ---
 
 Ha bármi kérdésed van, írj nekünk bátran!

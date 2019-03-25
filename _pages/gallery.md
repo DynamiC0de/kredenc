@@ -1,8 +1,7 @@
 ---
 title: Képek
-permalink: "/gallery/"
 layout: default
 nav: true
 show: gallery
+order: 3
 ---
-

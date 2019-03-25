@@ -2,6 +2,7 @@
 title: Rólunk
 layout: page
 nav: true
+order: 5
 ---
 
 Kedves ezen oldalra tévedt Vándor!

@@ -21,6 +21,10 @@ collections:
     title: Photos
     output: true
     permalink: "/photos/:path/"
+  pages:
+    title: Pages
+    output: true
+    permalink: "/pages/:title/"
   posts:
     title: Posts
     output: true

@@ -8,3 +8,4 @@ image: "/uploads/50881494_2010544362392790_7445151187130646528_n.jpg"
 author: Kovács Brigitta
 ---
 
+Készítő: Kovács Brigitta

@@ -2,6 +2,10 @@
 title: Kredenc
 timezone: Europe/Budapest
 collections:
+  authors:
+    title: Authors
+    output: true
+    permalink: "/authors/:path/"
   comics:
     title: Comics
     output: true
@@ -52,6 +56,12 @@ defaults:
   values:
     show: comics
     layout: pic
+- scope:
+    path: ''
+    type: authors
+  values:
+    layout: default
+    type: author
 author: Sarius
 description: A Hajnóczy Kollégium diákmagazinja.
 baseurl: "/kredenc"

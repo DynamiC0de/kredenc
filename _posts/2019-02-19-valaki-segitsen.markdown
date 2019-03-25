@@ -1,5 +1,5 @@
 ---
-title: 'Valaki segítsen!'
+title: Valaki segítsen!
 date: 2019-02-19 20:17:00 +01:00
 categories:
 - vers

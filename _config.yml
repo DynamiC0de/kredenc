@@ -17,14 +17,14 @@ collections:
     title: Memes
     output: true
     permalink: "/memes/:path/"
-  photos:
-    title: Photos
-    output: true
-    permalink: "/photos/:path/"
   pages:
     title: Pages
     output: true
     permalink: "/pages/:title/"
+  photos:
+    title: Photos
+    output: true
+    permalink: "/photos/:path/"
   posts:
     title: Posts
     output: true

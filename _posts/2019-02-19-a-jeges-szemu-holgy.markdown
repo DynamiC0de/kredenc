@@ -1,5 +1,5 @@
 ---
-title: 'A jeges szemű hölgy'
+title: A jeges szemű hölgy
 date: 2019-02-19 20:30:00 +01:00
 categories:
 - novella

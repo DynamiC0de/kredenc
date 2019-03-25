@@ -1,5 +1,5 @@
 ---
-title: 'Kis szobám'
+title: Kis szobám
 date: 2019-02-12 21:34:00 +01:00
 categories:
 - tárca

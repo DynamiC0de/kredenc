@@ -1,5 +1,5 @@
 ---
-title: 'Bradley Cooper, mint lecsúszott író'
+title: Bradley Cooper, mint lecsúszott író
 date: 2019-02-20 14:04:00 +01:00
 categories:
 - filmkritika

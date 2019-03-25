@@ -13,7 +13,7 @@ A frissen bútorozás alatt álló szobámban ültem épp, dolgom végeztén szo
 Hirtelen körülnéztem a felújításnak áldozatul eső szobámon. A falakon új réteg festék, új ágy, új gardrób. Az új dolgok tökéletes harmóniában vannak egymással és a régről megtartott szőnyeggel, függönnyel és színnel egyaránt. 
 
 
-De a sarokban óhatatalanul ott magasodik még, ki tudja meddig, az az oda nem illő, ócska, régi, szétdőlt ruhásszekrény, melyre azért időnként mégis megnyugtató ránézni a ráragasztgatott emlékek és képek sűrűjén elmélázva egy egy lopott pillanatra.
+De a sarokban óhatatlanul ott magasodik még, ki tudja meddig, az az oda nem illő, ócska, régi, szétdőlt ruhásszekrény, melyre azért időnként mégis megnyugtató ránézni a ráragasztgatott emlékek és képek sűrűjén elmélázva egy egy lopott pillanatra.
 
 https://www.youtube.com/watch?v=XvOqUewg1rU
 

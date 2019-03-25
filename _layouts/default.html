@@ -34,6 +34,12 @@ layout: compress
 
             {% assign galleryCards = site.pages | where:"gallery","true" %}
 
+            {% assign authorPosts = site.posts | where:"author",page.title %}
+            {% assign authorPhotos = site.photos | where:"author",page.title %}
+            {% assign authorComics = site.comics | where:"author",page.title %}
+            {% assign authorMemes = site.memes | where:"author",page.title %}
+
+
             {% if page.show == "index" %}
 
               {% for post in site.posts limit: 6 %}
@@ -43,6 +49,20 @@ layout: compress
             {% elsif page.show == "gallery" %}
 
               {% for post in galleryCards %}
+                {% include card.html %}
+              {% endfor %}
+
+            {% elsif page.show == "authors" %}
+
+              {% for post in site.authors %}
+                {% include card.html %}
+              {% endfor %}
+
+            {% elsif page.type == "author" %}
+
+              {% assign authorWorks = authorPosts | concat: authorPhotos | concat: authorComics | concat: authorMemes %}
+
+              {% for post in authorWorks %}
                 {% include card.html %}
               {% endfor %}
 

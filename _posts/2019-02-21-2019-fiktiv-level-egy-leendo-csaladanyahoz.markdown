@@ -8,7 +8,8 @@ categories:
 tags:
 - levél
 - anyaság
-author: Kovács Brigitta
+author:
+- Kovács Brigitta
 image: "/uploads/old-letter-3054235_960_720.jpg"
 ---
 

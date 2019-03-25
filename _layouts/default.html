@@ -31,7 +31,11 @@ layout: compress
 
     {% else %}
 
+      {% if page.image %}
+      <div class="hero lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/{{ page.image }}">
+      {% else %}
         <div class="hero--small">
+      {% endif %}
           <div class="hero__wrap">
             <h1 class="hero__title">{{ page.title }}</h1>
             <p class="hero__meta">{{ page.description }}</p>

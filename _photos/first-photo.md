@@ -9,5 +9,3 @@ author: Behán Júlia
 image: "/uploads/Julcsisport.JPG"
 picture: "/uploads/Julcsisport-a664bd.JPG"
 ---
-
-Behán Júlia fotója

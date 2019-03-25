@@ -6,6 +6,5 @@ categories:
 tags:
 - foci
 image: "/uploads/IMG_0552%20(1).jpg"
+author: Behán Júlia
 ---
-
-Behán Júlia fotója

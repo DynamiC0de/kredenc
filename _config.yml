@@ -66,7 +66,6 @@ defaults:
   values:
     layout: default
     type: author
-    image: ''
 author: Sarius
 description: A Hajnóczy Kollégium diákmagazinja.
 baseurl: "/kredenc"

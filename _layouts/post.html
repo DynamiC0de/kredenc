@@ -40,7 +40,10 @@ layout: compress
         </div>
       {% endif %}
       <h1 class="hero__title">{{ page.title }}</h1>
-      <p class="hero__meta">
+      {% if page.author %}
+      <p class="hero__meta">- {{ page.author }}<br>
+        <br>
+      {% endif %}
         <span>
           <time>{{ page.date | date_to_string }}</time>&nbsp;&middot;
         </span>
@@ -96,7 +99,7 @@ layout: compress
     </div>
 
     {% if site.disqus.shortname %}
-    
+
 
     <div class="comments">
       <div class="container">

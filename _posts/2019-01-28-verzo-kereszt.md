@@ -1,5 +1,5 @@
 ---
-title: 'Szekeres Bella: Vérző kereszt'
+title: 'Vérző kereszt'
 date: 2019-01-28 01:00:00 +01:00
 categories:
 - novella
@@ -12,7 +12,7 @@ comments: true
 layout: post
 ---
 
-Nem tudok olyan napot mondani, hogy a fegyverek nem ropogtak gyermekkorom estélin, a háború alatt nőttem fel, de nem félelemmel eltöltve. A gyermeki kíváncsiságom, felülkerekedett a rettegésen és izgalommá alakult. Mintha adrenalinban fürödtem volna, majd azt is ittam volna. Testem teljes egésze bizsergett, mikor bombariadó miatt a pincébe menekültünk a családommal. 
+Nem tudok olyan napot mondani, hogy a fegyverek nem ropogtak gyermekkorom estélin, a háború alatt nőttem fel, de nem félelemmel eltöltve. A gyermeki kíváncsiságom, felülkerekedett a rettegésen és izgalommá alakult. Mintha adrenalinban fürödtem volna, majd azt is ittam volna. Testem teljes egésze bizsergett, mikor bombariadó miatt a pincébe menekültünk a családommal.
 
 Születésemtől kezdve mocskos voltam, egy szörnyeteg. Vonzott a háború, a csatatér, az erőszak, s a vér. Egyszer véletlenszerűen elvágtam az ujjamat zöldségpucolás közben, a seb pár pillanatig még csak nem is látszódott, majd kibuggyant a vér, és a vágás marni kezdte a sértett felületen. Akkor ejtett foglyul először a saját vérem látványa, s az a „valami” azóta ott áll mögöttem és biztat az önpusztításra és hogy én okozzak másoknak fájdalmat. Magával ragadott, a megszállottja lettem, mint elvált ember a bordélyháznak. Olyan, mint a cigaretta, erre támaszkodtam, szükségem volt rá. Titokban szándékosan vágtam meg magamat, olyan helyeken, ahol nem túl feltűnő, ezzel is tartóztatva magamat, hogy ne bántsak másokat. Az izgalmamat fokozta, és lassan a szokásommá vált a fájdalom élvezete és a nedvem látványa. Ahogy testben és lélekben is növekedtem ez mind gyönyörszerzés céljából jelent meg még mélyebben az életemben. A vér ontása, már kielégülést szerzett teljes egészemnek.
 

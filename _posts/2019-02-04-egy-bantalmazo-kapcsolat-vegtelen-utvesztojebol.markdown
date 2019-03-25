@@ -1,5 +1,5 @@
 ---
-title: 'Horváth Éva: Egy bántalmazó kapcsolat végtelen útvesztőjéből'
+title: 'Egy bántalmazó kapcsolat végtelen útvesztőjéből'
 date: 2019-02-04 20:32:00 +01:00
 is-featured: true
 author: Horváth Éva

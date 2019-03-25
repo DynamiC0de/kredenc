@@ -1,5 +1,5 @@
 ---
-title: 'Kovács Brigitta: Mazochizmus'
+title: 'Mazochizmus'
 date: 2019-01-28 01:00:00 +01:00
 categories:
 - tárca
@@ -8,9 +8,9 @@ author: Kovács Brigitta
 layout: post
 ---
 
-Amikor összejövünk egy férfival, nem igazán gondolunk bele a hátulütőkbe –a sérülésekbe, amit okozhat- amikor úszunk a rózsaszín felhőkben. Gyakorlatilag ezek a sebek nem garantáltak, de valahogyan a nők gyakran olyan férfiakba esnek bele, akik bántják őket. Hívhatjuk ezt mazochizmusnak, de nem hiszem, hogy minden nő az lenne, szimplán csak nők. 
+Amikor összejövünk egy férfival, nem igazán gondolunk bele a hátulütőkbe –a sérülésekbe, amit okozhat- amikor úszunk a rózsaszín felhőkben. Gyakorlatilag ezek a sebek nem garantáltak, de valahogyan a nők gyakran olyan férfiakba esnek bele, akik bántják őket. Hívhatjuk ezt mazochizmusnak, de nem hiszem, hogy minden nő az lenne, szimplán csak nők.
 
-Gyakran mondják: A szerelemhez vezető út rögös. De miért fáj mindig, amikor azon az úton vagyunk? Igaz az, hogy ha két ember találkozik, és még ha szakítanak is, továbbra is ugyanazt érzik egymás iránt? Ha szerelmesek vagyunk valakibe és szakítunk, hová tűnik a szerelem? Vagy egyáltalán nem is létezett? Hát akkor meg miért harcoltunk? Akkor mi fájt a szakításkor? Úgy gondolom, hogy az az a pillanat, amikor szembesülünk a magánnyal, hogy megint egyedül leszünk. Vagy tényleg szerelem volt, és hiányoljuk a másikat. És mennyi idő engedélyezett sírni és tovább lépni a szakítás után? Rajtad áll. Szenvedj csak, amíg jól esik. Legalábbis ez az egészséges. És itt vagyok én, aki úgy viselkedik, mint egy férfi. Túl vagyok az exemen tíz másodperc alatt, majd egy idő után eszembe jut, és szétesek. 
+Gyakran mondják: A szerelemhez vezető út rögös. De miért fáj mindig, amikor azon az úton vagyunk? Igaz az, hogy ha két ember találkozik, és még ha szakítanak is, továbbra is ugyanazt érzik egymás iránt? Ha szerelmesek vagyunk valakibe és szakítunk, hová tűnik a szerelem? Vagy egyáltalán nem is létezett? Hát akkor meg miért harcoltunk? Akkor mi fájt a szakításkor? Úgy gondolom, hogy az az a pillanat, amikor szembesülünk a magánnyal, hogy megint egyedül leszünk. Vagy tényleg szerelem volt, és hiányoljuk a másikat. És mennyi idő engedélyezett sírni és tovább lépni a szakítás után? Rajtad áll. Szenvedj csak, amíg jól esik. Legalábbis ez az egészséges. És itt vagyok én, aki úgy viselkedik, mint egy férfi. Túl vagyok az exemen tíz másodperc alatt, majd egy idő után eszembe jut, és szétesek.
 
 Azonban ez nem történik meg minden sráccal, csak akik fontosak voltak számomra. Valahogyan, valamennyi idő múlva találkozok egy sráccal, aki olyan, mint a többi, akivel nem jövök ki jól, és még ha harcolok is, az nem elég.
 

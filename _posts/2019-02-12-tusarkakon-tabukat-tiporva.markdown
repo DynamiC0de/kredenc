@@ -1,5 +1,5 @@
 ---
-title: Tűsarkakon tabukat tiporva
+title: 'Horváth Éva: Tűsarkakon tabukat tiporva'
 date: 2019-02-12 21:59:00 +01:00
 categories:
 - filmkritika
@@ -10,9 +10,13 @@ image: "/uploads/Szex%C3%A9sN-ad1ae1.jpg"
 author: Horváth Éva
 ---
 
-A történet 4 New York-i barátnő életébe, illetve hálószobájába kalauzol minket. Mind a négyen különböző személyiségek, különböző problémákkal. Carrie az újság, majd bestseller írónő a fő főszereplőnk, valamint a narrátorunk is egyben. Fáradhatatlanul kutatja azt az igazi, mindent felemésztően erős szerelmet, amit a szingli férfiak életét elégedetten élő, távolságtartó, ugyanakkor elbűvölő James Prestonnal - fedőnevén Mr. Biggel – való viharos, se veled, se nélküled kapcsolatában meg is talál. Aztán itt van még nekünk Miranda a sikeres, karrierista ügyvédnő. Samantha a testiségnek szenvedélyesen hódoló nagymenő PR menedzser, aki kicsit talán sűrűn váltogatja partnereit. Valamint a frigyre lépés iránt vágyakozó, konzervatív, olykor már-már prűd Charlotte. 
+A történet 4 New York-i barátnő életébe, illetve hálószobájába kalauzol minket. Mind a négyen különböző személyiségek, különböző problémákkal. 
 
-A 6 évad és 94 epizód során a legkülönbözőbb tabukat és férfiak kapcsán felmerülő kérdéseket göngyölíthetjük fel a lányokkal. Szó van itt szőrtelenítésről, női orgazmusról, a randizás fortélyairól vagy éppen a középkorú szingliségről, de akár olyan fontos témákban is van mersze állást foglalni a sorozatnak, mint az abortusz vagy a megcsalás, mindezt pedig a divat fényűző világával és New Yorkkal körítik. Ezeket a dolgokat így nemcsak, hogy érdekfeszítő formában, de az eltérő fő karaktereknek köszönhetően több szemszögből is lehetőségünk nyílik végig járni egy-egy röpke 20-30 perces rész keretében, mely általában egyszerre csak egy ilyen tárgykörre fókuszál. Ennek hála nem keveredünk bele az információ többlet okozta kusza gondolatainkba, felmerülő kérdéseinkbe sem. Lehetőségünk nyílik minden belső kavalkád nélkül, nyugodtan filozofálgatni a bennünk ébredő gondolatokról.
+Carrie az újság, majd bestseller írónő a fő főszereplőnk, valamint a narrátorunk is egyben. Fáradhatatlanul kutatja azt az igazi, mindent felemésztően erős szerelmet, amit a szingli férfiak életét elégedetten élő, távolságtartó, ugyanakkor elbűvölő James Prestonnal - fedőnevén Mr. Biggel – való viharos, se veled, se nélküled kapcsolatában meg is talál. Aztán itt van még nekünk Miranda a sikeres, karrierista ügyvédnő. Samantha a testiségnek szenvedélyesen hódoló nagymenő PR menedzser, aki kicsit talán sűrűn váltogatja partnereit. Valamint a frigyre lépés iránt vágyakozó, konzervatív, olykor már-már prűd Charlotte. 
+
+A 6 évad és 94 epizód során a legkülönbözőbb tabukat és férfiak kapcsán felmerülő kérdéseket göngyölíthetjük fel a lányokkal. Szó van itt szőrtelenítésről, női orgazmusról, a randizás fortélyairól vagy éppen a középkorú szingliségről, de akár olyan fontos témákban is van mersze állást foglalni a sorozatnak, mint az abortusz vagy a megcsalás, mindezt pedig a divat fényűző világával és New Yorkkal körítik. 
+
+Ezeket a dolgokat így nemcsak, hogy érdekfeszítő formában, de az eltérő fő karaktereknek köszönhetően több szemszögből is lehetőségünk nyílik végig járni egy-egy röpke 20-30 perces rész keretében, mely általában egyszerre csak egy ilyen tárgykörre fókuszál. Ennek hála nem keveredünk bele az információ többlet okozta kusza gondolatainkba, felmerülő kérdéseinkbe sem. Lehetőségünk nyílik minden belső kavalkád nélkül, nyugodtan filozofálgatni a bennünk ébredő gondolatokról.
 
 
 ![letöltés.jpg](https://dynamic0de.github.io//kredenc///uploads/let%C3%B6lt%C3%A9s.jpg)

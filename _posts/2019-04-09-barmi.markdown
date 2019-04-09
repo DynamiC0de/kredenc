@@ -1,7 +1,0 @@
----
-title: Bármi
-date: 2019-04-09 11:18:00 +02:00
-author: Tóth Ágota Ráhel
-image: "/uploads/old-letter-3054235_960_720.jpg"
----
-

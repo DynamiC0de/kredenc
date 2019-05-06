@@ -1,6 +1,8 @@
 ---
 title: Mazochizm - korrekció
 date: 2019-05-06 09:02:00 +02:00
+categories:
+- tárca
 author: Kovács Brigitta
 image: "/uploads/pair-707506_960_720.jpg"
 ---

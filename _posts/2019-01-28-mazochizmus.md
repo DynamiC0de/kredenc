@@ -5,6 +5,7 @@ categories:
 - tárca
 is-featured: true
 author: Kovács Brigitta
+image: "/uploads/pair-707506_960_720.jpg"
 layout: post
 ---
 

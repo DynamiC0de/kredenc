@@ -1,8 +1,8 @@
 ---
 title: Mazochizm - korrekció
 date: 2019-05-06 09:02:00 +02:00
-artist: 
-picture: "/uploads/pair-707506_960_720.jpg"
+author: Kovács Brigitta
+image: "/uploads/pair-707506_960_720.jpg"
 ---
 
 *Legutóbbi nyomtatott lapszámunkban (Kredenc- 2019/tavasz) Kovács Brigitta angol nyelvű cikke tévesen, javítatlan változatában jelent meg. Olvasóinktól és a cikket javító Szalainé Kovács Renátától is elnézést kérünk. A javított változat itt olvasható:*    

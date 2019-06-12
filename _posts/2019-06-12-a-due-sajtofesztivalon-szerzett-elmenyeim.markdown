@@ -5,7 +5,7 @@ author: Kovács Brigitta
 image: "/uploads/kep_01.jpg"
 ---
 
-2019.  május 28-án életemben először vehettem részt sajtófesztiválon, ami örökre szóló élményt nyújtott. Két diáktársammal mehettem el átvenni a Legjobb diákmédiumnak járó díjat. Akkor még nem volt tudomásunk arról, hogy hányadik helyezést kapjuk, s amikor kiderült, hogy 2., nagy volt az öröm. Mondjuk kétszer is lekéstük a díjátadót, viszont alig volt dugó Budapest felé és a Burger King nagyon közel volt. 
+Május 28-án életemben először vehettem részt sajtófesztiválon, ami örökre szóló élményt nyújtott. Két diáktársammal mehettem el átvenni a Legjobb diákmédiumnak járó díjat. Akkor még nem volt tudomásunk arról, hogy hányadik helyezést kapjuk, s amikor kiderült, hogy 2., nagy volt az öröm. Mondjuk kétszer is lekéstük a díjátadót, viszont alig volt dugó Budapest felé és a Burger King nagyon közel volt. 
 
 Miután felderítő utunk befejeződött az oklevél átvételéért, még egy meglepetés ért minket. Egy egész táskányi ajándékot kapott a Kredenc. Tele EU-s termékekkel, amiknek azért teljes mértékben hasznát lehet venni. Végre megnyugodhattunk, és részt vehettünk a fesztivál különböző programjain.
 

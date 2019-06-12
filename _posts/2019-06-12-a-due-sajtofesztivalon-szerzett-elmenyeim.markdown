@@ -1,7 +1,8 @@
 ---
 title: A DUE Sajtófesztiválon szerzett élményeim
 date: 2019-06-12 18:29:00 +02:00
-actor: 
+author: Kovács Brigitta
+image: "/uploads/kep_01.jpg"
 ---
 
 2019. május 28-án életemben először vehettem részt sajtófesztiválon, ami örökre szóló élményt nyújtott. Két diáktársammal mehettem el átvenni a Legjobb diákmédiumnak járó díjat. Akkor még nem volt tudomásunk arról, hogy hányadik helyezést kapjuk, s amikor kiderült, hogy 2., nagy volt az öröm. Mondjuk kétszer is lekéstük a díjátadót, viszont alig volt dugó Budapest felé és a Burger King nagyon közel volt. 

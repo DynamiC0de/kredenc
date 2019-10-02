@@ -32,6 +32,6 @@ author: A Kredenc csapata
 ![Bella.png](https://dynamic0de.github.io//kredenc///uploads/Bella.png)
 
 
-"
+"Azért választottam a sajtot, mert az olyan váratlan, senki nem számít rá, különösen koronával." (Tóth Ágota Ráhel)
 ![TóthÁgota.png](https://dynamic0de.github.io//kredenc///uploads/T%C3%B3th%C3%81gota.png)
 

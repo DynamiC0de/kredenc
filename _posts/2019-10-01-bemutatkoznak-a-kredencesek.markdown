@@ -26,7 +26,7 @@ image: "/uploads/sideboard-2855773_960_720.png"
 ![K_Adél.png](https://dynamic0de.github.io//kredenc///uploads/K_Ad%C3%A9l.png)
 
 "Ez volt a jelem az oviban, ezt pedig le tudom rajzolni" (Károlyi Krisztina) 
-![K_Kriszti-c7c08b.png](https://dynamic0de.github.io//kredenc///uploads/K_Kriszti-c7c08b.png)
+![Károlyi_Tina.png](https://dynamic0de.github.io//kredenc///uploads/K%C3%A1rolyi_Tina.png)
 
 "Ez kifejezi, hogy szeretek írni, rajzolni, és szeretem a zenét"
 ![Bella.png](https://dynamic0de.github.io//kredenc///uploads/Bella.png)

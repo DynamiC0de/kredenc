@@ -5,4 +5,5 @@ image: "/uploads/G_Gabi.png"
 author: Gresák Gabriella
 ---
 
-Sokat mosolygok, szeretek vidám lenni. 
+"Sokat mosolygok, szeretek vidám lenni." (Gresák Gabriella)  
+![G_Gabi-b8e3f9.png](/uploads/G_Gabi-b8e3f9.png)

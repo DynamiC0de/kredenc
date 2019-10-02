@@ -28,7 +28,10 @@ author: A Kredenc csapata
 
 ![K_Kriszti-c7c08b.png](https://dynamic0de.github.io//kredenc///uploads/K_Kriszti-c7c08b.png)
 
+"Ez kifejezi, hogy szeretek írni, rajzolni, és szeretem a zenét"
 ![Bella.png](https://dynamic0de.github.io//kredenc///uploads/Bella.png)
 
+
+"
 ![TóthÁgota.png](https://dynamic0de.github.io//kredenc///uploads/T%C3%B3th%C3%81gota.png)
 

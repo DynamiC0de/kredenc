@@ -5,7 +5,7 @@ author: Gresák Gabriella
 ---
 
 "Sokat mosolygok, szeretek vidám lenni." (Gresák Gabriella)  
-![G_Gabi-b8e3f9.png]( https://dynamic0de.github.io//kredenc///uploads/G_Gabi-b8e3f9.png)
+![G_Gabi-b8e3f9.png](https://dynamic0de.github.io//kredenc///uploads/G_Gabi-b8e3f9.png)
 
 "Optimistának tartom magam, és szeretek táncolni" (Kaczor Fanni)  ![K.Fanni-a780e5.png](/uploads/K.Fanni-a780e5.png)
 

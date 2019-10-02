@@ -1,7 +1,7 @@
 ---
 title: Bemutatkoznak a kredencesek
 date: 2019-10-01 21:20:00 +02:00
-author: Gresák Gabriella
+author: A Kredenc csapata
 ---
 
 "Sokat mosolygok, szeretek vidám lenni." (Gresák Gabriella)  

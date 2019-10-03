@@ -28,7 +28,7 @@ image: "/uploads/sideboard-2855773_960_720.png"
 "Ez volt a jelem az oviban, ezt pedig le tudom rajzolni" (Károlyi Krisztina) 
 ![Károlyi_Tina.png](https://dynamic0de.github.io//kredenc///uploads/K%C3%A1rolyi_Tina.png)
 
-"Ez kifejezi, hogy szeretek írni, rajzolni, és szeretem a zenét"
+"Ez kifejezi, hogy szeretek írni, rajzolni, és szeretem a zenét" (Szekeres Bella)
 ![Bella.png](https://dynamic0de.github.io//kredenc///uploads/Bella.png)
 
 

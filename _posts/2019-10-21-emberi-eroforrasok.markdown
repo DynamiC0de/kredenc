@@ -2,7 +2,7 @@
 title: "„Emberi erőforrások”"
 date: 2019-10-21 12:26:00 +02:00
 author: Kovács Brigitta
-picture: "/uploads/senior-4549666_960_720.jpg"
+image: "/uploads/senior-4549666_960_720-82f83f.jpg"
 ---
 
 

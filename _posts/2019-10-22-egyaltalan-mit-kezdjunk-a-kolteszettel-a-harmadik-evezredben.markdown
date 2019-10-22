@@ -11,7 +11,7 @@ A kultúrának mindig jelen kell lennie az emberek életében, mert „nem csak 
 
 Ilyen nekem Francois Villon, aki egy valódi lázadó szellemiség volt, aki kocsmázott, s egyszer még egy szobrot is ellopott a ’’kagylósokkal’’, majd testamentumokat írt. Mikor először hallottam róla, ezt kérdeztem magamban: Ki ez a csávó? Idővel megtanultam róla, hogy egy bizonyos ambivalenciát képviselt, illetve képvisel, miszerint lehet az ember börtöntöltelék is és vallásos ember is… Mert szabad vagy, mert te döntesz.
 
-> > ![Francois_Villon.jpg](/uploads/Francois_Villon.jpg)(https://dynamic0de.github.io//kredenc///uploads/let%C3%B6lt%C3%A9s.jpg)
+![Francois_Villon-1e525e.jpg]![letöltés.jpg](https://dynamic0de.github.io//kredenc///uploads/Francois_Villon-1e525e.jpg)
 
 Kérdem: Ha nem a tudósok, költők, feltalálók tanítanak minket meg, akkor ki fog? Ha teszem fel, a harmadik évezredre, vagy holnapra kivonják az oktatásból azon személyeket, mint például Arkhimédész, Einstein, Berzsenyi… akkor marad az utókornak, a majdani gyermekeinknek a sok semmilyen, üres ’szólás-mondás’ valódi költemények helyett, és marad az, amit a tanáraink eleve tudtak, s majd nekünk is megtanítják egyszer? És ha nekik sem tanították volna meg e személyek nézeteit? 
 

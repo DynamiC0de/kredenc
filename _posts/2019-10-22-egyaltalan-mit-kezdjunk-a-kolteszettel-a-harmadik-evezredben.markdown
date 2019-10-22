@@ -13,7 +13,7 @@ Ilyen nekem Francois Villon, aki egy valódi lázadó szellemiség volt, aki koc
 
 
 
-Kérdem: Ha nem a tudósok, költők, feltalálók tanítanak minket meg, akkor ki fog? Ha teszem fel, a harmadik évezredre, vagy holnapra kivonják az oktatásból azon személyeket, mint például Arkhimédész, Einstein, Berzsenyi… akkor marad az utókornak, a majdani gyermekeinknek a sok semmilyen, üres ’szólás-mondás’ valódi költemények helyett, és marad az, amit a tanáraink eleve tudtak, s majd nekünk is megtanítják egyszer? És ha nekik sem tanították volna meg e személyek nézeteit? 
+Kérdezem: ha nem a tudósok, költők, feltalálók tanítanak minket meg, akkor ki fog? Ha teszem fel, a harmadik évezredre, vagy holnapra kivonják az oktatásból azon személyeket, mint például Arkhimédész, Einstein, Berzsenyi… akkor marad az utókornak, a majdani gyermekeinknek a sok semmilyen, üres ’szólás-mondás’ valódi költemények helyett, és marad az, amit a tanáraink eleve tudtak, s majd nekünk is megtanítják egyszer? És ha nekik sem tanították volna meg e személyek nézeteit? 
 
 Látod kedves, visszafelé elemezve is kiderítheted, mi lesz majd… majd ha végleg kihal a kultúra.
 

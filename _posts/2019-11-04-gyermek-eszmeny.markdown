@@ -1,6 +1,12 @@
 ---
 title: Gyermek-eszmény
 date: 2019-11-04 09:28:00 +01:00
+categories:
+- tárca
+tags:
+- gyermek
+- kamasz
+- felelősségvállalás
 image: "/uploads/children-1149671_960_720-61040b.jpg"
 author: Szekeres Bella
 ---

@@ -2,6 +2,9 @@
 title: Kredenc
 timezone: Europe/Budapest
 collections:
+  art:
+    title: Art
+    output: true
   authors:
     title: Authors
     output: true

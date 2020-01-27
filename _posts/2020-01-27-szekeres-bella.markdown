@@ -1,5 +1,5 @@
 ---
-title: Szekeres Bella
+title: Szekeres Bella versei
 date: 2020-01-27 13:48:00 +01:00
 author: Szekeres Bella
 ---

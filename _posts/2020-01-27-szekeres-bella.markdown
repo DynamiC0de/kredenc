@@ -4,7 +4,7 @@ date: 2020-01-27 13:48:00 +01:00
 categories:
 - vers
 author: Szekeres Bella
-picture: "/uploads/bird-3879179_960_720.png"
+image: "/uploads/bird-3879179_960_720.png"
 ---
 
 

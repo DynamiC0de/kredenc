@@ -1,8 +1,10 @@
 ---
 title: VÖRÖS VILÁG
 date: 2020-01-27 13:57:00 +01:00
+categories:
+- vers
 author: Szekeres Bella
-picture: "/uploads/chain-3481377_960_720.webp"
+image: "/uploads/chain-3481377_960_720.webp"
 ---
 
 

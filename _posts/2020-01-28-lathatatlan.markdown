@@ -1,6 +1,8 @@
 ---
 title: Láthatatlan
 date: 2020-01-28 20:15:00 +01:00
+categories:
+- beszámoló
 author: Tóth Ágota Ráhel
 image: "/uploads/IMG_0038.jpg"
 ---

@@ -6,7 +6,7 @@ categories:
 tags:
 - diákönkormányzat
 author: Bizderi Anna
-picture: "/uploads/IMG_2537.jpg"
+image: "/uploads/IMG_2537.jpg"
 ---
 
 A diákönkormányzat gyűlésein 2019-ben a lány-, és fiútagozat már rendszerint együtt vett részt. Eredményes tavalyi munkánk hatására növekedett a kilencedikesek száma a képviselők között. Ahogy a lányok, úgy már a fiúk is aktívan vettek és vesznek részt a DÖK munkájában. 

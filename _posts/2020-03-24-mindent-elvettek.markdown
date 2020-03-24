@@ -9,7 +9,7 @@ tags:
 - gyász
 - elválás
 author: Szekeres Bella
-picture: "/uploads/winter-775590_960_720.jpg"
+image: "/uploads/winter-775590_960_720.jpg"
 ---
 
 Elvettek tőlem mindent, mindent apró darabonként, lassan, türelmesen. Végig néztem mindennek az elvesztését, nem tudtam ellene mit tenni. Nyúltam utánuk, harcoltam értük… A csatát elvesztettem, és most itt heverek a csatamező közepén, a vér már a testemre alvadt. Nem mozdulok, képtelen vagyok bármilyen reakcióra. Már csak én vagyok vissza, mivel már nincs életem, ezért nem azt kell elvennem magamtól, azt már elvette valaki más tőlem. A fizikai testtől kell megszabadulnom. Írhatnék levelet, de nincs kinek, már nincs senkim, s nem is lesz.

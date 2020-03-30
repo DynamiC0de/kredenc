@@ -13,7 +13,7 @@ image: "/uploads/social-media-3846597_1280.png"
 
 *„Ha leírhatatlan, akkor ne írd le. Ha megfogalmazhatatlan, akkor ne fogalmazd meg. Nem kell esszét írni belőle. Senkinek nem kell beszámolnod és senkinek nem kell megmagyaráznod. Senkinek nem kell úgy elmondanod, hogy megértse. Aki megérti, szavak nélkül is megérti.” (Vámos Robi)*
 
-# Megkérdeztem néhány kollégista társamat arról, hogy kiknek/kinek szoktak beszélni az érzelmeikről? Miért? Mindent elmondanak vagy csak a negatívat? Van valamilyen sorrend-e, hogy kinek mondják el legelőször? Bántja-e őket, ha nem úgy reagálnak, ahogy számítottak rá?
+# ### Megkérdeztem néhány kollégista társamat arról, hogy kiknek/kinek szoktak beszélni az érzelmeikről? Miért? Mindent elmondanak vagy csak a negatívat? Van valamilyen sorrend-e, hogy kinek mondják el legelőször? Bántja-e őket, ha nem úgy reagálnak, ahogy számítottak rá?
 
 „Először is megfontolom magamban, hogy hogyan is érzek. Nem szeretem, ha valamelyik érzelmemet gondolkodás nélkül, indulatból kimondom. Abba is bele szoktam gondolni, hogy mi történik, ha visszamondják azt később egy veszekedés során. 
 Az is nehezíti az érzelmeink kifejezését, hogy kultúrákként és társadalmanként különböznek a pozitív és negatív érzések kiváltó okai, ezért nem biztos, hogy egy másik ember minden esetben képes megérteni azt az érzést, amit mi közvetíteni karunk számára. 

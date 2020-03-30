@@ -8,7 +8,7 @@ tags:
 - család
 - barátok
 author: 
-picture: "/uploads/social-media-3846597_1280.png"
+image: "/uploads/social-media-3846597_1280.png"
 ---
 
 *„Ha leírhatatlan, akkor ne írd le. Ha megfogalmazhatatlan, akkor ne fogalmazd meg. Nem kell esszét írni belőle. Senkinek nem kell beszámolnod és senkinek nem kell megmagyaráznod. Senkinek nem kell úgy elmondanod, hogy megértse. Aki megérti, szavak nélkül is megérti.” (Vámos Robi)*

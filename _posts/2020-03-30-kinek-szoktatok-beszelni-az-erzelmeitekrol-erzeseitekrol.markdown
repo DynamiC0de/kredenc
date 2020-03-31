@@ -7,7 +7,7 @@ tags:
 - érzelem
 - család
 - barátok
-author: 
+author: Wágner Réka
 image: "/uploads/social-media-3846597_1280.png"
 ---
 

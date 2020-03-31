@@ -6,7 +6,7 @@ categories:
 tags:
 - könyv
 author: Sum Virág
-picture: "/uploads/ballet-3898440_960_720.jpg"
+image: "/uploads/ballet-3898440_960_720.jpg"
 ---
 
 *„Úgy éreztem, rá van írva a homlokomra, hogy elsős vagyok.”*

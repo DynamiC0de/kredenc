@@ -1,5 +1,5 @@
 ---
-title: ÉRZELMEK
+title: Érzelmek
 date: 2020-04-21 09:19:00 +02:00
 categories:
 - vers

@@ -13,7 +13,7 @@ author: 'Szekeres Bella, Végvári Zsófia '
 image: "/uploads/Picasso.jpg"
 ---
 
-*Egy online foglalkozásunkon a befogadó szerepéről beszélgettünk. Picasso Guernica című festménye két újságírónkat is megihlette. Az ihletből két vers született, íme: *
+**Egy online foglalkozásunkon a befogadó szerepéről beszélgettünk. Picasso Guernica című festménye két újságírónkat is megihlette. Az ihletből két vers született, íme: **
 
 
 # Szekeres Bella 

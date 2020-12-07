@@ -22,6 +22,7 @@ Egy online foglalkozásunkon a befogadó szerepéről beszélgettünk. Picasso G
 ## Összeroppant a világ...
 
 
+
 Összeroppant a világ,
 
 A saját súlya alatt,
@@ -52,10 +53,12 @@ A gyilkos szemek.
 
 
 
+
 # Végvári Zsófia
 
 
 ## Éjszaka
+
 
 
 Meghalt a város, 

@@ -1,6 +1,13 @@
 ---
 title: Az utolsó mondat
 date: 2021-03-05 09:54:00 +01:00
+categories:
+- kreatív gyakorlatok
+tags:
+- magány
+- költözés
+- iskola
+- barát
 author: Mórel Emma
 Field name: 
 image: "/uploads/man-1394395_960_720.jpg"

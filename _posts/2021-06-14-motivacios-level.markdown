@@ -10,7 +10,7 @@ author: Fonai Dorka
 image: "/uploads/lens-490806_960_720.jpg"
 ---
 
-**Hoztam egy angol és egy magyar motivációs levelet is segítségképp a jövőre nézve. Akár a tovább tanulásotokhoz, akár munkavállaláskor alkalmazhatjátok a következő tanácsokat. **
+Hoztam egy angol és egy magyar motivációs levelet is segítségképp a jövőre nézve. Akár a tovább tanulásotokhoz, akár munkavállaláskor alkalmazhatjátok a következő tanácsokat.
 
 A motivációs levelet érdemes bekezdésekre osztani, mert úgy jobban átlátható, illetve azokat témánként rendszerezni. A következőket ajánlatos beletenni: magadról kicsit mesélni pár mondatban; honnan hallottál a szakról, miért ezt a szakot választottad, mi érdekel, mit szeretsz csinálni, ehhez kapcsolódó munkák, eddigi tapasztalataid, mit vársz el az egyetemtől, milyen tudással rendelkezel. A bekezdéseknek elején és végén összefoglaló mondatot javasolt írni, így aki olvassa, könnyebben átlátja és megtalálja, amit keres. A befejező mondatot nagyon jól meg kell fogalmazni, hogy tükrözze, - az egész szöveggel együtt - hogy mindenképp oda szeretnél menni. 
 

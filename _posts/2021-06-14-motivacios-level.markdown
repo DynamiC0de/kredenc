@@ -1,6 +1,11 @@
 ---
 title: Motivációs levél
 date: 2021-06-14 09:04:00 +02:00
+categories:
+- bemutató
+tags:
+- motivációs levél
+- felvételi
 author: Fonai Dorka
 image: "/uploads/lens-490806_960_720.jpg"
 ---

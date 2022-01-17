@@ -1,5 +1,6 @@
 ---
 title: Képregények
+position: 7
 show: comics
 gallery: true
 image: 

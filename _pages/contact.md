@@ -1,5 +1,6 @@
 ---
 title: Kapcsolat
+position: 5
 nav: true
 order: 4
 ---

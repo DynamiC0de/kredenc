@@ -1,5 +1,6 @@
 ---
 title: Kategóriák
+position: 4
 layout: page
 nav: true
 order: 1

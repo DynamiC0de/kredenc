@@ -6,6 +6,7 @@ categories:
 tags:
 - bántalmazás
 - bullying
+position: 8
 author: Végvári Zsófia
 picture: "/uploads/suicide-5127103_960_720.jpg"
 ---

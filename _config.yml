@@ -27,7 +27,7 @@ collections:
     title: Pages
     output: true
     permalink: "/pages/:title/"
-  photos:
+  kepek:
     title: Photos
     output: true
     permalink: "/photos/:path/"

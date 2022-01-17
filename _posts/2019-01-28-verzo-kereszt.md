@@ -1,6 +1,7 @@
 ---
 title: Vérző kereszt
 date: 2019-01-28 01:00:00 +01:00
+published: false
 categories:
 - novella
 tags:

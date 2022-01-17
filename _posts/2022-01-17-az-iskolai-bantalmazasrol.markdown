@@ -5,7 +5,7 @@ categories:
 - interjú
 tags:
 - bántalmazás
-author: Kiss Anna Virág
+author: 
 image: "/uploads/stop-teenager-suicide-2780058_960_720.jpg"
 ---
 

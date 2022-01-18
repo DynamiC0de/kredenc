@@ -17,7 +17,7 @@ az élet ilyen egyszerű.”
 /Halott Pénz/
 
 
-### # Az iskolai bántalmazás napjainkban egyre gyakrabban van jelen hazánkban. Ezeknek az eseményeknek közvetlen szemlélői a tanárok és a diákok. Napi szinten lehet találkozni kétségbeesett szülőkkel, mert a gyermeküket bántalmazták, vagy mert a gyermekük bántalmazott valakit.
+### Az iskolai bántalmazás napjainkban egyre gyakrabban van jelen hazánkban. Ezeknek az eseményeknek közvetlen szemlélői a tanárok és a diákok. Napi szinten lehet találkozni kétségbeesett szülőkkel, mert a gyermeküket bántalmazták, vagy mert a gyermekük bántalmazott valakit.
 
 
 Megkérdeztük az egyik diáktársunkat ezzel a témával kapcsolatban.

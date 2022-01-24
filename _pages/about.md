@@ -3,6 +3,7 @@ title: Rólunk
 position: 0
 nav: true
 order: 5
+image: "/uploads/IMG_2867.JPG"
 layout: page
 ---
 

@@ -108,4 +108,3 @@ compress_html:
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
-image: "/uploads/IMG_2867-3e228f.JPG"

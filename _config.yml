@@ -9,9 +9,6 @@ collections:
     title: Authors
     output: true
     permalink: "/authors/:path/"
-  cikkek:
-    title: Cikkek
-    output: true
   comics:
     title: Comics
     output: true

@@ -6,7 +6,7 @@ categories:
 tags:
 - bántalmazás
 - bullying
-author: Kiss Anna Virág, Sztevics Viktória
+author: Kiss Anna Virág
 image: "/uploads/stop-teenager-suicide-2780058_960_720.jpg"
 ---
 
